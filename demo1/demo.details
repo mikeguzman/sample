@@ -1,9 +1,9 @@
 /*
 ---
-name: Request.HTML - jsFiddle/Github integration demo
-description: jsFiddle demo hosted on Github using HTML Request to get Ajax data
+name: AMP Player - Playlist sample
+description: Demostrate the AMP Player sample
 authors:
-  - Piotr Zalewa
+  - Akamai AMP Player Team
 resources:
   - /js/empty.js
   - /css/normalize.css
@@ -12,4 +12,4 @@ lang_css: SCSS
 ...
 */
 
-<p>This demo will show you how to: add multiple Events to an Element, create custom Events and fire an Event.</p> 
+<p>Demostrate the AMP Player sample</p> 
